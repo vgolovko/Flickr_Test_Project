@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import FlickrKitFramework
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -15,7 +16,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        
+        let apiKey: String! = "348ea26ca45d5f9d3da7fff4822a7fd1"
+        let secret: String! = "471cc96b04e60f27"
+        
+        FlickrKit.shared().initialize(withAPIKey: apiKey, sharedSecret: secret)
+        
         return true
     }
 

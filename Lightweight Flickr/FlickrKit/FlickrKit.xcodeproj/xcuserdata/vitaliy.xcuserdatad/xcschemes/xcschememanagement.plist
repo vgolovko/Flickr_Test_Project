@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>FlickrKit-TV.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>FlickrKit.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>FlickrKitFramework.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>FlickrKitOSX.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>FlickrModelGenerator.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>552D918B1753F8EF00BE3FEA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>552D91991753F8F000BE3FEA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>553B845A1BCEB24A00BF59AF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>553B859D1BCEBBD600BF59AF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>55951D701BE6BAC9002628DB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6AAAF1201BC022A100EFC8E6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
